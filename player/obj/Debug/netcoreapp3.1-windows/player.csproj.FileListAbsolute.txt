@@ -1,0 +1,13 @@
+C:\Programming\Player\MediaPlayer\player\bin\Debug\netcoreapp3.1-windows\player.exe
+C:\Programming\Player\MediaPlayer\player\bin\Debug\netcoreapp3.1-windows\player.deps.json
+C:\Programming\Player\MediaPlayer\player\bin\Debug\netcoreapp3.1-windows\player.runtimeconfig.json
+C:\Programming\Player\MediaPlayer\player\bin\Debug\netcoreapp3.1-windows\player.runtimeconfig.dev.json
+C:\Programming\Player\MediaPlayer\player\bin\Debug\netcoreapp3.1-windows\player.dll
+C:\Programming\Player\MediaPlayer\player\bin\Debug\netcoreapp3.1-windows\player.pdb
+C:\Programming\Player\MediaPlayer\player\obj\Debug\netcoreapp3.1-windows\player.csprojAssemblyReference.cache
+C:\Programming\Player\MediaPlayer\player\obj\Debug\netcoreapp3.1-windows\player.AssemblyInfoInputs.cache
+C:\Programming\Player\MediaPlayer\player\obj\Debug\netcoreapp3.1-windows\player.AssemblyInfo.cs
+C:\Programming\Player\MediaPlayer\player\obj\Debug\netcoreapp3.1-windows\player.csproj.CoreCompileInputs.cache
+C:\Programming\Player\MediaPlayer\player\obj\Debug\netcoreapp3.1-windows\player.dll
+C:\Programming\Player\MediaPlayer\player\obj\Debug\netcoreapp3.1-windows\player.pdb
+C:\Programming\Player\MediaPlayer\player\obj\Debug\netcoreapp3.1-windows\player.genruntimeconfig.cache

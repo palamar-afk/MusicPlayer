@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CProgram_0020Files_005COzeki_005COzeki_0020SDK_005CSDK_005CNET4_005COzekiSDK_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CWindows_005CMicrosoft_002ENET_005CDirectX_0020for_0020Managed_0020Code_005C1_002E0_002E2902_002E0_005CMicrosoft_002EDirectX_002EAudioVideoPlayback_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CWindows_005CMicrosoft_002ENET_005CDirectX_0020for_0020Managed_0020Code_005C1_002E0_002E2902_002E0_005CMicrosoft_002EDirectX_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/AddReferences/RecentPaths/=C_003A_005CWindows_005CSystem32_005Cwmp_002Edll/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=09C721B6_002DF0CD_002D4AA4_002DB34E_002D0A0E5701538F_002Ff_003AMainWindow_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=09C721B6_002DF0CD_002D4AA4_002DB34E_002D0A0E5701538F_002Ff_003AMainWindow_002Examl_002Ecs/@EntryIndexedValue">ExplicitlyExcluded</s:String></wpf:ResourceDictionary>

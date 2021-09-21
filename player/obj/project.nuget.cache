@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+bhJXnBqFdwlPn72ciIXigFGhz7ATgHc+5elUpGrLt2c94q08YodpyIT87drp9Nh56uxAxKZBrEVyJBNBIr0w==",
+  "success": true,
+  "projectFilePath": "C:\\Programming\\Player\\MediaPlayer\\player\\player.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fiede\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Fiede\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
